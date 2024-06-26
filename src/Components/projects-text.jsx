@@ -28,12 +28,12 @@ export default function ProjectsTest() {
       >
         <div className="imgView relative h-min bg-[#9ca3af1c] p-2">
           <img
-            src="/public/images/dashboard-mobile.PNG"
+            src="/public/images/dashboard-mobile1.jpg"
             alt="pr"
             className="h-3/5 absolute bottom-[-1rem] right-[-1rem] rounded-[10px]"
           />
           <img
-            src="/public/images/dashboard.PNG"
+            src="/public/images/dashboard1.jpg"
             alt="pr"
             className=" flex flex-1 w-full transition-transform duration-[1s] ease-[ease,border-color] delay-[0.7s] rounded-[10px]"
           />
