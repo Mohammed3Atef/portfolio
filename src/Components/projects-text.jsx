@@ -28,12 +28,12 @@ export default function ProjectsTest() {
       >
         <div className="imgView relative h-min bg-[#9ca3af1c] p-2">
           <img
-            src="/src/assets/projects/dashboad-mobile.png"
+            src="/public/images/dashboard-mobile.PNG"
             alt="pr"
             className="h-3/5 absolute bottom-[-1rem] right-[-1rem] rounded-[10px]"
           />
           <img
-            src="/src/assets/projects/dashboard.PNG"
+            src="/public/images/dashboard.PNG"
             alt="pr"
             className=" flex flex-1 w-full transition-transform duration-[1s] ease-[ease,border-color] delay-[0.7s] rounded-[10px]"
           />
@@ -49,7 +49,7 @@ export default function ProjectsTest() {
             eius praesentium dolor?
           </div>
           <div className="languagesView flex flex-1 flex-wrap justify-evenly gap-4">
-            <TiHtml5 className="text-5xl text-[#00ffff] transition-[0.3s] hover:scale-110" />
+            <TiHtml5 className="text-5xl text-[#f75421] transition-[0.3s] hover:scale-110" />
 
             <RiTailwindCssFill className="text-5xl text-[#00ffff] transition-[0.3s] hover:scale-110" />
           </div>
@@ -166,12 +166,12 @@ export default function ProjectsTest() {
         </div>
         <div className="imgView relative h-min ">
           <img
-            src="/src/assets/projects/library-mobile.png"
+            src="/public/images/library-mobile.PNG"
             alt="pr"
             className="h-3/5 absolute bottom-[-1rem] right-[-1rem] rounded-[10px]"
           />
           <img
-            src="/src/assets/projects/librery.PNG"
+            src="/public/images/library.PNG"
             alt="pr"
             className=" flex flex-1 w-full transition-transform duration-[1s] ease-[ease,border-color] delay-[0.7s] rounded-[10px]"
           />
@@ -187,12 +187,12 @@ export default function ProjectsTest() {
       >
         <div className="imgView relative h-min ">
           <img
-            src="/src/assets/projects/fasion-mobile.png"
+            src="/public/images/fashion-mobile.PNG"
             alt="pr"
             className="h-3/5 absolute bottom-[-1rem] right-[-1rem] rounded-[10px]"
           />
           <img
-            src="/src/assets/projects/fashion.PNG"
+            src="/public/images/fashion.PNG"
             alt="pr"
             className=" flex flex-1 w-full transition-transform duration-[1s] ease-[ease,border-color] delay-[0.7s] rounded-[10px]"
           />
@@ -208,7 +208,7 @@ export default function ProjectsTest() {
             eius praesentium dolor?
           </div>
           <div className="languagesView flex flex-1 flex-wrap justify-evenly gap-4">
-            <FaReact className="text-5xl text-[#00ffff] transition-[0.3s] hover:scale-110" />
+            <FaReact className="text-5xl text-[#00d8ff] transition-[0.3s] hover:scale-110" />
 
             <RiTailwindCssFill className="text-5xl text-[#00ffff] transition-[0.3s] hover:scale-110" />
           </div>

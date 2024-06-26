@@ -1,3 +1,4 @@
+import { TiHtml5 } from "react-icons/ti";
 import { FaCss3Alt } from "react-icons/fa";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { FaReact } from "react-icons/fa";
@@ -7,7 +8,7 @@ import { FaGithub } from "react-icons/fa";
 
 export default function Skills() {
   return (
-    <section id="skills" className="min-h-screen" data-aos="zoom-in">
+    <section id="skills" className="mb-32" data-aos="zoom-in">
       <div className=" flex justify-center mb-7">
         <h1 className=" text-xl lg:text-2xl font-bold text-white">My Skills</h1>
       </div>
@@ -16,7 +17,12 @@ export default function Skills() {
           <div className=" text-center p-2">
             <div className="grid grid-cols-2 lg:grid-cols-4 m-auto gap-10 lg:p-4 p-1 lg:gap-y-20 place-items-center">
               <div className=" flex items-center justify-center flex-col">
-                <FaCss3Alt className="text-5xl text-[#2196f3] duration-[0.3s] hover:scale-110" />
+                <TiHtml5 className="text-5xl text-[#f75421] duration-[0.3s] hover:scale-110" />
+
+                <p className=" mt-1 font-sans text-white">HTML</p>
+              </div>
+              <div className=" flex items-center justify-center flex-col">
+                <FaCss3Alt className="text-5xl text-[#2d53e5] duration-[0.3s] hover:scale-110" />
 
                 <p className=" mt-1 font-sans text-white">CSS</p>
               </div>

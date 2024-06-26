@@ -1,3 +1,6 @@
+import bgPhoto from "../assets/bg-photo.png";
+import profilePic from "../assets/mo.jpg";
+
 export default function About() {
   return (
     <section id="about" className="min-h-screen overflow-hidden">
@@ -16,7 +19,7 @@ export default function About() {
             height="500"
             decoding="async"
             className=" rounded-full h-32 w-32 lg:h-60 lg:w-60  "
-            src="/src/assets/bg-phoot.png"
+            src={bgPhoto}
           />
           <img
             alt="arjun"
@@ -25,7 +28,7 @@ export default function About() {
             height="500"
             decoding="async"
             className=" rounded-full h-32 w-32 lg:h-60 lg:w-60 object-contain absolute lg:translate-x-3 duration-500 ease-in-out cursor-pointer lg:-translate-y-3 lg:hover:translate-y-0 lg:hover:translate-x-0 border-white border-2"
-            src="/src/assets/mo.jpg"
+            src={profilePic}
           />
         </div>
         <div className=" flex flex-col justify-center lg:w-2/3 lg:p-6">
