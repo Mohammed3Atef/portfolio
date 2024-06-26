@@ -4,6 +4,12 @@ import { RiTailwindCssFill } from "react-icons/ri";
 import { FaReact } from "react-icons/fa";
 import { SiJavascript } from "react-icons/si";
 import { TiHtml5 } from "react-icons/ti";
+import dashboard from "../assets/dashboard.jpg";
+import dashboardMobile from "../assets/dashboard-mobile.jpg";
+import library from "../assets/library.jpg";
+import libraryMobile from "../assets/library-mobile.jpg";
+import fashion from "../assets/fashion.jpg";
+import fashionMobile from "../assets/fashion-mobile.jpg";
 
 export default function ProjectsTest() {
   return (
@@ -28,12 +34,12 @@ export default function ProjectsTest() {
       >
         <div className="imgView relative h-min bg-[#9ca3af1c] p-2">
           <img
-            src="/public/images/dashboard-mobile1.jpg"
+            src={dashboardMobile}
             alt="pr"
             className="h-3/5 absolute bottom-[-1rem] right-[-1rem] rounded-[10px]"
           />
           <img
-            src="/public/images/dashboard1.jpg"
+            src={dashboard}
             alt="pr"
             className=" flex flex-1 w-full transition-transform duration-[1s] ease-[ease,border-color] delay-[0.7s] rounded-[10px]"
           />
@@ -166,12 +172,12 @@ export default function ProjectsTest() {
         </div>
         <div className="imgView relative h-min ">
           <img
-            src="/public/images/library-mobile.PNG"
+            src={libraryMobile}
             alt="pr"
             className="h-3/5 absolute bottom-[-1rem] right-[-1rem] rounded-[10px]"
           />
           <img
-            src="/public/images/library.PNG"
+            src={library}
             alt="pr"
             className=" flex flex-1 w-full transition-transform duration-[1s] ease-[ease,border-color] delay-[0.7s] rounded-[10px]"
           />
@@ -187,12 +193,12 @@ export default function ProjectsTest() {
       >
         <div className="imgView relative h-min ">
           <img
-            src="/public/images/fashion-mobile.PNG"
+            src={fashionMobile}
             alt="pr"
             className="h-3/5 absolute bottom-[-1rem] right-[-1rem] rounded-[10px]"
           />
           <img
-            src="/public/images/fashion.PNG"
+            src={fashion}
             alt="pr"
             className=" flex flex-1 w-full transition-transform duration-[1s] ease-[ease,border-color] delay-[0.7s] rounded-[10px]"
           />
