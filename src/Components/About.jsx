@@ -25,7 +25,7 @@ export default function About() {
             height="500"
             decoding="async"
             className=" rounded-full h-32 w-32 lg:h-60 lg:w-60 object-contain absolute lg:translate-x-3 duration-500 ease-in-out cursor-pointer lg:-translate-y-3 lg:hover:translate-y-0 lg:hover:translate-x-0 border-white border-2"
-            src="/src/assets/mo.jpg"
+            src="https://previews.dropbox.com/p/thumb/ACVhR789Zr79f21nXxdfiXPFsHBrD1DMkyBkOCjOWVwJEp3pqGyxYPOnYmh_Y21XdEea2TNVOMtTWCS4hhWgVEAkQMNHBVBdE_64ImXVbKUwQxZ3Iq5IR6iIz-nhIp-k8bD5RVxlaiQQvMRUqaDBWE0Li5RxgS6o636Yw2PlWSjBCi5EB49gYESO8LBG6SksC7gMghLRIhfbWSTmYCgXW9NPWW5xCOTjfYB4tL6KrxGiGetZOWST6tQzk7d3GvIlVTmCSvh2aIAMtHY8ZuQYUh8hAfGl8q5MmFFSFqcw-np-bhmXXFNRbDzFaEQLqqMS22xCTNfRAS4pDRJTZ8f6r5xa/p.jpeg"
           />
         </div>
         <div className=" flex flex-col justify-center lg:w-2/3 lg:p-6">
