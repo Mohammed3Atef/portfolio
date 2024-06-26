@@ -16,7 +16,7 @@ export default function About() {
             height="500"
             decoding="async"
             className=" rounded-full h-32 w-32 lg:h-60 lg:w-60  "
-            src="https://res-console.cloudinary.com/daaxeknbn/media_explorer_thumbnails/a31dcb64882030cb515d024f32b048cc/detailed"
+            src="./src/assets/bg-phoot.png"
           />
           <img
             alt="arjun"
@@ -25,7 +25,7 @@ export default function About() {
             height="500"
             decoding="async"
             className=" rounded-full h-32 w-32 lg:h-60 lg:w-60 object-contain absolute lg:translate-x-3 duration-500 ease-in-out cursor-pointer lg:-translate-y-3 lg:hover:translate-y-0 lg:hover:translate-x-0 border-white border-2"
-            src="https://res-console.cloudinary.com/daaxeknbn/media_explorer_thumbnails/9d573c3b72929ae4a5b84ee298f59835/detailed"
+            src="./src/assets/mo.jpg"
           />
         </div>
         <div className=" flex flex-col justify-center lg:w-2/3 lg:p-6">
