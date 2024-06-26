@@ -16,7 +16,7 @@ export default function About() {
             height="500"
             decoding="async"
             className=" rounded-full h-32 w-32 lg:h-60 lg:w-60  "
-            src="./src/assets/bg-phoot.png"
+            src="https://res-console.cloudinary.com/daaxeknbn/media_explorer_thumbnails/a31dcb64882030cb515d024f32b048cc/detailed"
           />
           <img
             alt="arjun"

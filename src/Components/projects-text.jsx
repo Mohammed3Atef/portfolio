@@ -28,12 +28,12 @@ export default function ProjectsTest() {
       >
         <div className="imgView relative h-min bg-[#9ca3af1c] p-2">
           <img
-            src="./src/assets/projects/dashboad-mobile.png"
+            src="https://res-console.cloudinary.com/daaxeknbn/media_explorer_thumbnails/e8a489512514d1a32eacb3e3b5e5ee12/detailed"
             alt="pr"
             className="h-3/5 absolute bottom-[-1rem] right-[-1rem] rounded-[10px]"
           />
           <img
-            src="./src/assets/projects/dashboard.PNG"
+            src="https://res-console.cloudinary.com/daaxeknbn/media_explorer_thumbnails/a4f7effa05b6d68105f15eed3001e67d/detailed"
             alt="pr"
             className=" flex flex-1 w-full transition-transform duration-[1s] ease-[ease,border-color] delay-[0.7s] rounded-[10px]"
           />
@@ -166,12 +166,12 @@ export default function ProjectsTest() {
         </div>
         <div className="imgView relative h-min ">
           <img
-            src="./src/assets/projects/library-mobile.png"
+            src="https://res-console.cloudinary.com/daaxeknbn/media_explorer_thumbnails/ca6e2e0d5f57cf07afbb3eaf206eccd0/detailed"
             alt="pr"
             className="h-3/5 absolute bottom-[-1rem] right-[-1rem] rounded-[10px]"
           />
           <img
-            src="./src/assets/projects/librery.PNG"
+            src="https://res-console.cloudinary.com/daaxeknbn/media_explorer_thumbnails/af6059571452347b11350f4ed5e00de0/detailed"
             alt="pr"
             className=" flex flex-1 w-full transition-transform duration-[1s] ease-[ease,border-color] delay-[0.7s] rounded-[10px]"
           />
@@ -187,12 +187,12 @@ export default function ProjectsTest() {
       >
         <div className="imgView relative h-min ">
           <img
-            src="./src/assets/projects/fasion-mobile.png"
+            src="https://res-console.cloudinary.com/daaxeknbn/media_explorer_thumbnails/6434e287fb96f0da8c091117d06e4195/detailed"
             alt="pr"
             className="h-3/5 absolute bottom-[-1rem] right-[-1rem] rounded-[10px]"
           />
           <img
-            src="./src/assets/projects/fashion.PNG"
+            src="https://res-console.cloudinary.com/daaxeknbn/media_explorer_thumbnails/793c14cbc78dc48e5fa79b24ade75402/detailed"
             alt="pr"
             className=" flex flex-1 w-full transition-transform duration-[1s] ease-[ease,border-color] delay-[0.7s] rounded-[10px]"
           />
