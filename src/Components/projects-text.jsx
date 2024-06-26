@@ -28,12 +28,12 @@ export default function ProjectsTest() {
       >
         <div className="imgView relative h-min bg-[#9ca3af1c] p-2">
           <img
-            src="./src/assets/projects/dashboad-mobile.png"
+            src="/src/assets/projects/dashboad-mobile.png"
             alt="pr"
             className="h-3/5 absolute bottom-[-1rem] right-[-1rem] rounded-[10px]"
           />
           <img
-            src="./src/assets/projects/dashboard.PNG"
+            src="/src/assets/projects/dashboard.PNG"
             alt="pr"
             className=" flex flex-1 w-full transition-transform duration-[1s] ease-[ease,border-color] delay-[0.7s] rounded-[10px]"
           />
@@ -166,12 +166,12 @@ export default function ProjectsTest() {
         </div>
         <div className="imgView relative h-min ">
           <img
-            src="./src/assets/projects/library-mobile.png"
+            src="/src/assets/projects/library-mobile.png"
             alt="pr"
             className="h-3/5 absolute bottom-[-1rem] right-[-1rem] rounded-[10px]"
           />
           <img
-            src="./src/assets/projects/librery.PNG"
+            src="/src/assets/projects/librery.PNG"
             alt="pr"
             className=" flex flex-1 w-full transition-transform duration-[1s] ease-[ease,border-color] delay-[0.7s] rounded-[10px]"
           />
@@ -187,12 +187,12 @@ export default function ProjectsTest() {
       >
         <div className="imgView relative h-min ">
           <img
-            src="./src/assets/projects/fasion-mobile.png"
+            src="/src/assets/projects/fasion-mobile.png"
             alt="pr"
             className="h-3/5 absolute bottom-[-1rem] right-[-1rem] rounded-[10px]"
           />
           <img
-            src="./src/assets/projects/fashion.PNG"
+            src="/src/assets/projects/fashion.PNG"
             alt="pr"
             className=" flex flex-1 w-full transition-transform duration-[1s] ease-[ease,border-color] delay-[0.7s] rounded-[10px]"
           />
