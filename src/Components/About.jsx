@@ -16,7 +16,7 @@ export default function About() {
             height="500"
             decoding="async"
             className=" rounded-full h-32 w-32 lg:h-60 lg:w-60  "
-            src="/src/assets/bg-phoot.png"
+            src="https://previews.dropbox.com/p/thumb/ACVcuZt4utTq3TRWRAxhQWddT6aqkvxjVH_vhURf4sokZoX4WsqAFjWxycU8CBBv_O5C3H2KS6kuN3fURkV_RdbXbCPInx-Anx2lkWkc5txUjXNUJ-A-lPxpPOD3MhPYsWMbAl5nwgKsCaPs0FlkL2mMLs6UdXsV5Q-5YVSBOlBkKf_TwEtWgE0T90Oqhl0v9tZcowQHM1XIz8DePZfAgZF63TubYyiZ72x_fgSTTAFt9WW3vg7p8RFG5kehCbYOSHX8vQwN72AXZTgKuB7ATiia8lb-tOrfI8x1yiSlrUgmafFh0YtqV54KiYdXO8HAY7G4lDRS24ZuvJEIDa6-8wn6/p.png"
           />
           <img
             alt="arjun"

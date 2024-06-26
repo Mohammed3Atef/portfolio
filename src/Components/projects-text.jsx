@@ -28,12 +28,12 @@ export default function ProjectsTest() {
       >
         <div className="imgView relative h-min bg-[#9ca3af1c] p-2">
           <img
-            src="/src/assets/projects/dashboad-mobile.png"
+            src="/https://previews.dropbox.com/p/thumb/ACVQZYtgob24OKt7z-uxu85wdke2s2pNoLyNOcEOYEpXJxLnbIeij8k_FR6jA_IBYZgd0vpy2oA1E0lA6IbWbeeCVyR6eoC_je0p3IQlhK2nZafSuh68od9ji0IL2yreZdtbpALo4DPYmO0wSb6a4neo8noywcQmZ77KtcGi9yr1IHd4RwgsMBpckxkJwELkBJl5sn1tNqzSEzPi4yz1zx-IqMCaQCcuMXJcqQF9kVGOJzB6qEV8R-KGUGWciD249oBnl3BEpSJlHKiQckHNNyMSGtqq0vAln01cLUJ-8-gqHK7T7KjImYiVhvmyH58nk5m5RA52PxTHYZt2gqnYdB1d/p.png"
             alt="pr"
             className="h-3/5 absolute bottom-[-1rem] right-[-1rem] rounded-[10px]"
           />
           <img
-            src="/src/assets/projects/dashboard.PNG"
+            src="https://previews.dropbox.com/p/thumb/ACWUoUCHHus9KEDDMgToYgpyL4fCVTlV4OXRrTsIxVlqrwkvHCVES0JhXbOaaXVnTfj7LDkbI60tSJAJD2Hv4rr-AlDMXV0cH5nCGU68rP4-4eowE5IQGm7cGZwT9cQUz8ZpmhzDKIr_dAVF3ZXEF_xieZ0Qk3MhJczQwJCKhJNB1z6iAoPByRMxVhr87IwlzSZbzj6JuN20a2PWu6KFtdwbQ6eRs9Ej28J5IuofCYL7Q-P1beYfmEI4jtQsaZRzUxd_f-KdELQWyNl4ddCddaQ0xQknvZxp7fpGKN0Wn3_arPBS8VujCx5fV94m1j_FoOcTuyFlWN_j1fF3vsdYPA0p/p.png"
             alt="pr"
             className=" flex flex-1 w-full transition-transform duration-[1s] ease-[ease,border-color] delay-[0.7s] rounded-[10px]"
           />
@@ -166,12 +166,12 @@ export default function ProjectsTest() {
         </div>
         <div className="imgView relative h-min ">
           <img
-            src="/src/assets/projects/library-mobile.png"
+            src="https://previews.dropbox.com/p/thumb/ACX1_IyhTyy0cR19OACL2eUXxyz6pBdjPxHTSLIJu0T_28fQ6l6AIdwSu43hLzIz2Z0fHREHK3WWe5Rj1iqsFJYgpixU8q4TZYZMZQsGF8Kuc1fQPFF9QqcOWlZIXKn3FFcvgNI51MIfZMS95ZiHjxNi83tHR-g_ON_d1b7eFgeVAngn1q2kFj6jGGDjY18caOJk9HydD2AkIxPdCph5sx8hQQ-VFj3cxLr1QGB7NjMawRts6s6_GGR5YtPxyPqFY4GenhiB36HNQj2bPwuV4ygsvY27QzTi33ixVLJNgWZ1nf9szO5bYIWyL0n1BP7aF2votMvTFhLnrZxvV2Gm37pk/p.png"
             alt="pr"
             className="h-3/5 absolute bottom-[-1rem] right-[-1rem] rounded-[10px]"
           />
           <img
-            src="/src/assets/projects/librery.PNG"
+            src="https://previews.dropbox.com/p/thumb/ACVbY6TpzPjWLjpIoKGniX9MiGV6raAnvvLcDKPmydXywDJkcphDjL2OjW4pZalFofX9Ejgfnz25n49W-fiQiBp4f520y0eIQo2jqqVjOAh-NCvaHhuinlHbLFCu_qd1e7VnLzC7DBzAARg_uO883-1TO-wHrSXg8Xs6_lU_86qJyF0-rRBn_4O6t-Q75VJHDKLEuRBcweX0uJS7nc-YzEiGVNCElBtOIP_HPmawyQkt16kc1wRSYkSWI_9HxZFnlCSppbZZW2oXs4R1wpC1uAppRcv79Aj9b2PSajYPL3bkEjYDnX7zuPCPV7t1yqNDr-b7c28nsF1vVs3B1eK5XIXj/p.png"
             alt="pr"
             className=" flex flex-1 w-full transition-transform duration-[1s] ease-[ease,border-color] delay-[0.7s] rounded-[10px]"
           />
@@ -187,12 +187,12 @@ export default function ProjectsTest() {
       >
         <div className="imgView relative h-min ">
           <img
-            src="/src/assets/projects/fasion-mobile.png"
+            src="https://previews.dropbox.com/p/thumb/ACUJiGqeD1nziULt_A-TAljYYb2tAbVuGEN8xBFrFmTH9OobAZSai3SnGWTC0K9NDo9Sz7IJAk6a4RnWSXset6_a4RJ4gtaxZNTLr5mNxzkkLmJcT4EB4hsq0stVyH-PpEY0lHsde_BvaByYr7ks5kwY_UxL_C4OW-xlatbhRRL6xe8J4YbDJCOBdq7b7MbXM9BmG_pVN_uC2JjPqxl_lJPy3qSS4VU0YqwFx9kqMR_vecG1yixN1EAQqtNJO1OefK7xTmxzUoGVt8mHQ0e9L_wnqf481E6RUu1iv01YGKZmm-bzW3M1SirLrxuQr0v8bOf9-9vLJTKj5sMLkY7AIvb5/p.png"
             alt="pr"
             className="h-3/5 absolute bottom-[-1rem] right-[-1rem] rounded-[10px]"
           />
           <img
-            src="/src/assets/projects/fashion.PNG"
+            src="https://previews.dropbox.com/p/thumb/ACXeLsocYaR7ZtDEJ6xrON9KkRo_RI0qOjOYr-tLvoKeBFUkkUBRExqMa9cx_e3FYeFoeTM7TVf2KLjOjUWFQVVvweKPZpYt29h5r_6n35GnO1refWZ_3EzlDqs2G6x7wjEjkUhAQhdPLSRNIB45XwhBPpjtBeLzEnZZL-g9xEvzS5nFPOc7IXPxIEtukEITZZz743Xo8C5juzVx_hu1swVt1G6ZliOJ8K51lz0tQmJB5fMR-pVkI2ghLQn2YlHJ3TzrcdqQ0wSX5CjmuRGQVK7vf_tFvMShE0DU3wMVfrQeMuD2YusuzIDs8Q5YVAdcl7YD9ITc0GOXLs4JiOxbI_PH/p.png"
             alt="pr"
             className=" flex flex-1 w-full transition-transform duration-[1s] ease-[ease,border-color] delay-[0.7s] rounded-[10px]"
           />
