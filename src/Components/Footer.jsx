@@ -19,7 +19,7 @@ export default function Footer() {
               src="https://cdn.prod.website-files.com/6517f6cdafa18ec4281f8b18/6543406c7f651b3fcb79d784_Group%20655.svg"
               loading="lazy"
               alt=""
-              className="w-[100%] inline-block absolute bottom-[-55%] top-auto inset-x-[0%]"
+              className="w-[100%] inline-block absolute bottom-[-40%] lg:bottom-[-55%] top-auto inset-x-[0%]"
             />
           </div>
         </div>
