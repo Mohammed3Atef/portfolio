@@ -1,5 +1,6 @@
 import bgPhoto from "../assets/bg-photo.png";
 import profilePic from "../assets/mo.jpg";
+import profileimg from "../assets/me.jpg";
 
 export default function About() {
   return (
@@ -13,7 +14,7 @@ export default function About() {
       <div className=" flex flex-col lg:flex-row gap-4 p-2">
         <div className=" flex justify-center mx-5 lg:w-1/3 relative items-center">
           <img
-            alt="arjun"
+            alt={bgPhoto}
             loading="lazy"
             width="250"
             height="500"
@@ -22,13 +23,13 @@ export default function About() {
             src={bgPhoto}
           />
           <img
-            alt="arjun"
+            alt={profileimg}
             loading="lazy"
             width="250"
             height="500"
             decoding="async"
             className=" rounded-full h-32 w-32 lg:h-60 lg:w-60 object-contain absolute lg:translate-x-3 duration-500 ease-in-out cursor-pointer lg:-translate-y-3 lg:hover:translate-y-0 lg:hover:translate-x-0 border-white border-2"
-            src={profilePic}
+            src={profileimg}
           />
         </div>
         <div className=" flex flex-col justify-center lg:w-2/3 lg:p-6">

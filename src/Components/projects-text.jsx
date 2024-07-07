@@ -4,6 +4,8 @@ import { RiTailwindCssFill } from "react-icons/ri";
 import { FaReact } from "react-icons/fa";
 import { SiJavascript } from "react-icons/si";
 import { TiHtml5 } from "react-icons/ti";
+import { IoLogoFirebase } from "react-icons/io5";
+
 import messengerApp from "../assets/messengerApp.jpg";
 import dashboard from "../assets/dashboard.jpg";
 import dashboardMobile from "../assets/dashboard-mobile.jpg";
@@ -39,14 +41,16 @@ export default function ProjectsTest() {
             Messenger App
           </div>
           <div className="description text-base text-center text-white">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Necessitatibus, sequi dolorum? Pariatur porro, earum rem, vero,
-            veniam harum obcaecati est aperiam accusamus omnis odit
-            voluptatibus. Iure, quis vero. Molestiae, quibusdam.
+            This project is a feature-rich Messenger App built using React and
+            Tailwind CSS, integrating Firebase for authentication and real-time
+            data management. The application allows users to sign up and log in
+            using email and password authentication, and it securely stores user
+            data in Firestore.
           </div>
           <div className="languagesView flex flex-1 flex-wrap justify-evenly gap-4">
             <RiTailwindCssFill className="text-5xl text-[#00ffff] transition-[0.3s] hover:scale-110" />
             <FaReact className="text-5xl text-[#00d8ff] transition-[0.3s] hover:scale-110" />
+            <IoLogoFirebase className="text-5xl text-[#ed7e1f] transition-[0.3s] hover:scale-110" />
           </div>
           <div className="buttonsView flex flex-1 flex-wrap justify-evenly gap-4">
             <a
@@ -130,10 +134,10 @@ export default function ProjectsTest() {
             Dashboard
           </div>
           <div className="description text-base text-center text-white">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis
-            vitae iusto ea voluptates magnam earum ratione eum maxime enim. Nam,
-            iusto cupiditate maiores suscipit aliquam aspernatur necessitatibus
-            eius praesentium dolor?
+            This project is a modern, responsive dashboard designed using HTML
+            and Tailwind CSS. The dashboard features a sleek, dark theme and is
+            optimized for various screen sizes, ensuring a seamless user
+            experience on both desktop and mobile devices.
           </div>
           <div className="languagesView flex flex-1 flex-wrap justify-evenly gap-4">
             <TiHtml5 className="text-5xl text-[#f75421] transition-[0.3s] hover:scale-110" />
@@ -198,10 +202,11 @@ export default function ProjectsTest() {
             My Library
           </div>
           <div className="description text-base text-center text-white">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Necessitatibus, sequi dolorum? Pariatur porro, earum rem, vero,
-            veniam harum obcaecati est aperiam accusamus omnis odit
-            voluptatibus. Iure, quis vero. Molestiae, quibusdam.
+            This project is a personal library management app developed using
+            JavaScript and Tailwind CSS. The application allows users to add
+            books, including the title, author, and number of pages, and to
+            track their reading status. The app features a responsive and modern
+            design, making it easy to use on any device.
           </div>
           <div className="languagesView flex flex-1 flex-wrap justify-evenly gap-4">
             <RiTailwindCssFill className="text-5xl text-[#00ffff] transition-[0.3s] hover:scale-110" />
@@ -289,10 +294,10 @@ export default function ProjectsTest() {
             Fashionesta
           </div>
           <div className="description text-base text-center text-white">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis
-            vitae iusto ea voluptates magnam earum ratione eum maxime enim. Nam,
-            iusto cupiditate maiores suscipit aliquam aspernatur necessitatibus
-            eius praesentium dolor?
+            This project is a Fashion App developed using React and Tailwind
+            CSS, designed to fetch and display data from the Easy Order API. The
+            app features a sleek, modern design and provides a comprehensive
+            interface for browsing and managing fashion products.
           </div>
           <div className="languagesView flex flex-1 flex-wrap justify-evenly gap-4">
             <FaReact className="text-5xl text-[#00d8ff] transition-[0.3s] hover:scale-110" />
